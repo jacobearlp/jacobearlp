@@ -1,7 +1,15 @@
-### Hi there 👋
+### 👋 Hi there 
 
-**jacobearlp/jacobearlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm an iOS Developer specializing in Swift.
 
+### 📫 How to reach me:
+* <a href="https://www.linkedin.com/in/jacob-earl-p-9b06a8b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+* <a href="https://www.instagram.com/_brauliozz/" target="_blank"><img src="https://static.cdninstagram.com/rsrc.php/v3/yt/r/30PrGfR3xhB.png" alt="Instagram"></a>
+
+### Fun fact:
+* My name is Jacob but my nickname is Paulo, I know its not funny :(.
+
+<!-- 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,4 +19,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... 
+-->
