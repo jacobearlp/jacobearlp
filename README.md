@@ -11,7 +11,7 @@
 * <a href="mailto:jake.braul@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Gmail" width="30" height="20">Send me an email</a> 
 
 ## ⚡ Fun fact:
-* My name is Jacob but my nickname is Paulo, I know its not funny 😞.
+* Not that much.
 
 ## 📊 Github stat:
 
