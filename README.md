@@ -1,17 +1,13 @@
 ## 👋 Hi there 
 
 ## 🧑🏽‍💻 About me.
-* I'm an iOS Developer specializing in Swift.
-* I worked as Web Developer (Front-end and Back-end Developer) (PHP).
-* Living in Cebu, Philippines. We have few beaches here 🏖.
+* I am currently working as iOS Developer specializing in Swift.
+* I have experience in Web Development (Front-end and Back-end Developer) (PHP).
+* Living in Cebu, Philippines 🏖.
 
 ## 📫 How to reach me:
 * <a href="https://www.linkedin.com/in/jacob-earl-p-9b06a8b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-* Instagram: <a href="https://www.instagram.com/_brauliozz/" target="_blank">@_brauliozz</a>
 * <a href="mailto:jake.braul@gmail.com"><img src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg" alt="Gmail" width="30" height="20">Send me an email</a> 
-
-## ⚡ Fun fact:
-* Not that much.
 
 ## 📊 Github stat:
 
